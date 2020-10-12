@@ -12,7 +12,7 @@ Foi gerado um "Data Frame" de cada tabela a ser analisada. após a inserção fo
 
 # LOAD
 
-O Mysql foi utilizado para a carga de dados, onde de acordo com o código proposto  e realizada a inserção dos dados na tabela people.
+O Mysql foi utilizado para a carga de dados, onde de acordo com o código proposto  e realizada a inserção dos dados na tabela people. Na pasta Query estão disponibilizados os scripts de Criação e Inserção dos dados no MySQL
 
 # Dashboards
 
