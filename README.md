@@ -1,4 +1,4 @@
-# ETL Projeto GoToData
+# ETL Projeto GoToData (Python)
 
 Philipe Lage
 
@@ -17,3 +17,7 @@ O Mysql foi utilizado para a carga de dados, onde de acordo com o código propos
 # Dashboards
 
 Com a tabela final gerada em csv, foi realizada a inserção dos dados no PowerBI e dessa forma feito uma análise simples dos dados contidos na tabela, o Dashboard esta disponibilizado na pasta Dashboard do projeto
+
+# Execução
+
+Para a Execução do código basta criar o banco de dados no Mysql utilizando a query disponibilizada para criação da base de dados e da tabela "people", e executar o código "ETL_GoToData.ipynb" no jupyter notebook, para execução do dashboard basta executá-lo no PowerBI.
