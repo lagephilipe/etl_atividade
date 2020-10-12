@@ -13,3 +13,7 @@ Foi gerado um "Data Frame" de cada tabela a ser analisada. após a inserção fo
 # LOAD
 
 O Mysql foi utilizado para a carga de dados, onde de acordo com o código proposto  e realizada a inserção dos dados na tabela people.
+
+# Dashboards
+
+Com a tabela final gerada em csv, foi realizada a inserção dos dados no PowerBI e dessa forma feito uma análise simples dos dados contidos na tabela
