@@ -16,4 +16,4 @@ O Mysql foi utilizado para a carga de dados, onde de acordo com o código propos
 
 # Dashboards
 
-Com a tabela final gerada em csv, foi realizada a inserção dos dados no PowerBI e dessa forma feito uma análise simples dos dados contidos na tabela
+Com a tabela final gerada em csv, foi realizada a inserção dos dados no PowerBI e dessa forma feito uma análise simples dos dados contidos na tabela, o Dashboard esta disponibilizado na pasta Dashboard do projeto
